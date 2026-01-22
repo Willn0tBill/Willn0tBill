@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Willn0tBill
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently creating games in Whatever Studios
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: hack me and you can talk to me
 - 😄 Pronouns: He/Him/walmart bag/coffee
