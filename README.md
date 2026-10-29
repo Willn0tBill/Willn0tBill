@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Willn0tBill
-- 👀 I’m interested in Astronomy
-- 🌱 I’m currently creating games in Whatever Studios
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: hack me and you can talk to me
-- 😄 Pronouns: He/Him/walmart bag/coffee
-- ⚡ Fun fact: im a goofy boi
+# Building with Wtv Innovations
 
-<!---
-Willn0tBill/Willn0tBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Wtv Innovations (WtvI)** develops games, digital tools, websites, and practical software.
+
+I'm interested in game development, web technology, software, and astronomy. WtvI is the umbrella studio for my creative and technical projects.
+
+## Featured projects
+
+| Project | Description | Status |
+|---|---|---|
+| [ProfitLands](https://willn0tbill.github.io/ProfitLands/play/) | Business-management and tycoon simulation | Playable browser game |
+| [Nation Wars](https://willn0tbill.github.io/NationWars/) | Territory-control and strategy game | Development preview |
+| [Wtv Innovations](https://willn0tbill.github.io/WtvStudios/) | Studio website and portfolio | Live website |
+| [ClientHub](https://github.com/Willn0tBill/ClientHub) | Small-business management tools | In development |
+| [SwiftSupply Ops](https://github.com/Willn0tBill/SwiftSupplyOps) | Internal operating dashboard | Internal product |
+
+## More than games
+
+WtvI projects span **interactive entertainment**, **business software**, and **modern websites**. Products and client/community sites retain their own identities.
+
+**Studio:** [Wtv Innovations](https://willn0tbill.github.io/WtvStudios/) · **Portfolio:** [Digital Products](https://willn0tbill.github.io/WtvStudios/products.html) · **Repositories:** [GitHub](https://github.com/Willn0tBill)
+
+> The GitHub repository is still named `WtvStudios` to preserve existing website links. The current public-facing studio name is Wtv Innovations (WtvI).
